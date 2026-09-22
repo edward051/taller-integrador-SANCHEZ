@@ -14,3 +14,5 @@
 | Función calc() | Nombre poco claro | Renombrada a calcularPromedio() |
 | Función calcularAntiguo comentada | Código muerto sin uso | Eliminada |
 | console.log de depuración | No debe quedar en producción | Eliminados |
+## Enlace al sitio
+loquacious-brioche-89a9c3.netlify.app
